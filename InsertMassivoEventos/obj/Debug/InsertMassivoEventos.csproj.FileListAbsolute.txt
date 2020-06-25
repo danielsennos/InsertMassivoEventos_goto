@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\bin\Debug\InsertMassivoEventos.exe.config
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\bin\Debug\InsertMassivoEventos.exe
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\bin\Debug\InsertMassivoEventos.pdb
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\obj\Debug\InsertMassivoEventos.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\obj\Debug\InsertMassivoEventos.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\obj\Debug\InsertMassivoEventos.csproj.CopyComplete
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\obj\Debug\InsertMassivoEventos.exe
+C:\Users\danie\source\repos\InsertMassivoEventos\InsertMassivoEventos\obj\Debug\InsertMassivoEventos.pdb
