@@ -12,9 +12,9 @@ namespace InsertMassivoEventos
 {
     class Repository
     {
-        //private readonly string _connectionString = "Data Source=SYNDES;User ID=avl2;password=avldesenv";
+       
 
-        private readonly string _connectionString = "Data Source=AVL2PROD;User ID=avl2;password=avlsynapsis";
+        private readonly string _connectionString = "Data Source=;User ID=;password=";
 
        
         public ArrayList GetViaturas()
